@@ -20,4 +20,7 @@ El sistema va a permitir lo siguiente:
 - Registrar préstamos
 - Registrar devoluciones
 - Generar certificados de devolución
-- Generar facturas cuando un préstamo supera los 30 días 
+- Generar facturas cuando un préstamo supera los 30 días
+
+  ## LICENCIA DEL SOFTWARE
+  

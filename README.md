@@ -46,4 +46,13 @@ El sistema **MJ LEDGER** define un conjunto de requisitos que permiten gestionar
     - Lista de usuarios
     - Usuarios con mayor y menor número de préstamos
 
+### REQUISITOS NO FUNCIONALES
+1. **Usabilidad:** El sistema debe contar con un menú claro y organizado que facilite la interacción del usuario.
+2. **Rendimiento:** El sistema debe procesar las operaciones de manera rápida y eficiente.
+3. **Fiabilidad:** El sistema debe garantizar que los datos almacenados sean correctos y consistentes.
+4. **Seguridad:** El sistema debe restringir el acceso al módulo administrativo mediante credenciales válidas.
+5. **Portabilidad:** El sistema debe ejecutarse en cualquier entorno compatible con Python.
+6. **Mantenibilidad:** El código debe estar bien estructurado utilizando buenas prácticas de programación.
+7. **Compatibilidad:** El sistema debe funcionar en diferentes sistemas operativos sin afectar su funcionamiento.
+
   

@@ -55,4 +55,19 @@ El sistema **MJ LEDGER** define un conjunto de requisitos que permiten gestionar
 6. **Mantenibilidad:** El código debe estar bien estructurado utilizando buenas prácticas de programación.
 7. **Compatibilidad:** El sistema debe funcionar en diferentes sistemas operativos sin afectar su funcionamiento.
 
+## PLAN DE PROYECTO
+
+### DIAGRAMA DE GANTT
+
+![diagrama](imagen/diagrama.png)
+
+El cronograma del proyecto se organiza en un periodo de 15 semanas, distribuyendo las actividades de manera progresiva y estratégica. En las primeras semanas se abordan tareas de preparación y organización, como la elaboración de actas y la definición de requisitos, que permiten establecer una base sólida para el desarrollo posterior.
+
+La semana 7 marca un punto clave, ya que se concentran actividades fundamentales como la creación del repositorio en GitHub, la definición de la licencia y la planificación general del proyecto. Estas acciones garantizan que el equipo cuente con lineamientos claros y un entorno de trabajo estructurado.
+
+Entre la semana 8 y la 14 se desarrolla el núcleo técnico del proyecto: el plan de versionado, la construcción del algoritmo y la elaboración del manual de usuario. Esta fase refleja el mayor esfuerzo del equipo, pues combina la implementación práctica con la documentación necesaria para asegurar la usabilidad del producto.
+
+Finalmente, la semana 15 se dedica a la perfección y cierre del proyecto, consolidando los resultados y asegurando que se cumplan los objetivos planteados. Este esquema permite visualizar la secuencia lógica de las tareas, la interdependencia entre ellas y el compromiso del equipo en cada etapa.
+
+
   

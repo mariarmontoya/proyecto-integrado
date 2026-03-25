@@ -12,8 +12,6 @@ Entre mis principales habilidades y fortalezas, destaco el pensamiento analític
 
 - **Valentina Ramírez:** Estudio Ingeniería Industrial y actualmente voy en tercer semestre. Soy una persona curiosa, persistente y colaborativa. Me caracterizo por tener una gran capacidad de organización, claridad en la comunicación y creatividad para encontrar soluciones prácticas. Disfruto aprender cosas nuevas y analizar detalles con precisión, siempre buscando mejorar y aportar valor en lo que hago. Me gusta combinar la exactitud con la estética, y busco que mis resultados sean claros y atractivos.
 
-  ## LICENCIA DEL SOFTWARE
-
   ## REPORTE DE VISIÓN
 
 El sistema **MJ LEDGER** es una aplicación desarrollada en Python que tiene como propósito gestionar de manera eficiente el préstamo de artículos, permitiendo el registro, control y seguimiento de usuarios, ítems y transacciones asociadas. Este sistema surge como solución a la problemática presentada por MJ, quien enfrenta dificultades para recordar a quién ha prestado sus objetos y en qué condiciones se encuentran, generando desorganización y pérdida de información.
@@ -82,5 +80,10 @@ El presupuesto se calcula en tiempo de práctica de formación, no en dinero dir
 En términos monetarios, tomando como referencia el Salario Mínimo Legal Vigente en Colombia para 2026, el valor de un SMLV es de **$1.750.905.** Así, el presupuesto total del proyecto corresponde a **$3.501.810,** representado en tiempo de práctica profesional.
 
 Este cálculo refleja el esfuerzo académico y práctico invertido por los estudiantes, y permite valorar el proyecto en función del tiempo de dedicación, manteniendo coherencia con el enfoque formativo planteado.
+
+## LICENCIA DEL SOFTWARE
+
+Este proyecto se distribuye bajo la licencia MIT, la cual permite el uso, copia, modificación y distribución del software.  
+Para más información, consulte el archivo [LICENSE](LICENSE).
 
   

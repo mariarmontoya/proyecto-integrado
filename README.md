@@ -69,5 +69,18 @@ Entre la semana 8 y la 14 se desarrolla el núcleo técnico del proyecto: el pla
 
 Finalmente, la semana 15 se dedica a la perfección y cierre del proyecto, consolidando los resultados y asegurando que se cumplan los objetivos planteados. Este esquema permite visualizar la secuencia lógica de las tareas, la interdependencia entre ellas y el compromiso del equipo en cada etapa.
 
+### PRESUPUESTO DEL PROYECTO
+
+| **Estudiante** | **Horas aportadas**| **Equivalencia en SMLV** | **Valor en pesos (2026)** |
+|--------------|-----------------|----------------------|------------------------------------|
+| Dana | 50 horas | 1 SMLV | $1.750.905 |
+| Valentina | 50 horas | 1 SMLV | $1.750.905 |
+| **Total** | **100 horas** | **2 SMLV** | **$3.501.810** |
+
+El presupuesto se calcula en tiempo de práctica de formación, no en dinero directo. Cada estudiante dedica **50 horas** de trabajo, lo que en conjunto suma **100 horas** para el equipo de dos integrantes. Según la equivalencia establecida en el ejercicio,**50 horas corresponden a 1 SMLV,** por lo tanto el total de **100 horas equivale a 2 SMLV.**
+
+En términos monetarios, tomando como referencia el Salario Mínimo Legal Vigente en Colombia para 2026, el valor de un SMLV es de **$1.750.905.** Así, el presupuesto total del proyecto corresponde a **$3.501.810,** representado en tiempo de práctica profesional.
+
+Este cálculo refleja el esfuerzo académico y práctico invertido por los estudiantes, y permite valorar el proyecto en función del tiempo de dedicación, manteniendo coherencia con el enfoque formativo planteado.
 
   

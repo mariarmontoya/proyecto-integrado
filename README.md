@@ -10,7 +10,7 @@ MJ LEDGER es una aplicación desarrollada en Python que permite gestionar el pr�
 
 Entre mis principales habilidades y fortalezas, destaco el pensamiento analítico, la capacidad para resolver problemas y la organización. También tengo facilidad para trabajar en equipo, adaptarme a diferentes situaciones y aprender de manera autónoma. Me considero una persona responsable, comprometida y con enfoque en la mejora continua, siempre buscando soluciones eficientes e innovadoras.
 
-- **Valentina Ramírez:** Estudio Ingeniería Industrial y actualmente voy en tercer semestre. Soy una persona curiosa, persistente y colaborativa. Me caracterizo por tener una gran capacidad de organización, claridad en la comunicación y creatividad para encontrar soluciones prácticas. Disfruto aprender cosas nuevas y analizar detalles con precisión, siempre buscando mejorar y aportar valor en lo que hago. Me gusta combinar la exactitud con la estética, y busco que mis resultados sean claros y atractivos.
+- **Valentina Ramírez:** Tengo 18 años y vivo en El Santuario - Antioquia, estudio Ingeniería Industrial, pertenezco a la seccional Carmen de Vivoral y actualmente voy en tercer semestre. Soy una persona curiosa, persistente y colaborativa. Me caracterizo por tener una gran capacidad de organización, claridad en la comunicación y creatividad para encontrar soluciones prácticas. Disfruto aprender cosas nuevas y analizar detalles con precisión, siempre buscando mejorar y aportar valor en lo que hago. Me gusta combinar la exactitud con la estética, y busco que mis resultados sean claros y atractivos.
 
   ## REPORTE DE VISIÓN
 

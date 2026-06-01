@@ -6,7 +6,7 @@ MJ LEDGER es una aplicación desarrollada en Python que permite gestionar el pr�
 
 ## PARTICIPANTES
 
-- **Dana Moreno:** Tengo 21 años y vivo en Chigorodó Antioquia soy estudiante de Ingeniería Industrial, pertenezco a la seccional Turbo y actualmente estoy en quinto semestre. La ingeniería industrial es una carrera orientada a optimizar procesos, mejorar la productividad y tomar decisiones eficientes dentro de las organizaciones. Me encuentro en quinto semestre, donde he fortalecido mis conocimientos en análisis de sistemas, gestión de procesos y uso de herramientas cuantitativas.
+- **Dana Moreno:** Tengo 21 años y vivo en Chigorodó Antioquia soy estudiante de Ingeniería Industrial, pertenezco a la seccional Turbo y actualmente estoy en quinto semestre donde he fortalecido mis conocimientos en análisis de sistemas, gestión de procesos y uso de herramientas cuantitativas. Soy una persona creativa y muy activa, me gusta recibir y brindar conocimiento, me considero muy organizada y aplicada en todo lo que me propongo. 
 
 
 - **Valentina Ramírez:** Tengo 18 años y vivo en El Santuario - Antioquia, estudio Ingeniería Industrial, pertenezco a la seccional Carmen de Vivoral y actualmente voy en tercer semestre. Soy una persona curiosa, persistente y colaborativa. Me caracterizo por tener una gran capacidad de organización, claridad en la comunicación y creatividad para encontrar soluciones prácticas. Disfruto aprender cosas nuevas y analizar detalles con precisión, siempre buscando mejorar y aportar valor en lo que hago. Me gusta combinar la exactitud con la estética, y busco que mis resultados sean claros y atractivos.
